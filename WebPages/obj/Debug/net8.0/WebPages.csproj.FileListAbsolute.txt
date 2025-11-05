@@ -1,0 +1,12 @@
+C:\Users\gigat\source\repos\ForTestingEpamSite\WebPages\bin\Debug\net8.0\WebPages.deps.json
+C:\Users\gigat\source\repos\ForTestingEpamSite\WebPages\bin\Debug\net8.0\WebPages.dll
+C:\Users\gigat\source\repos\ForTestingEpamSite\WebPages\bin\Debug\net8.0\WebPages.pdb
+C:\Users\gigat\source\repos\ForTestingEpamSite\WebPages\obj\Debug\net8.0\WebPages.csproj.AssemblyReference.cache
+C:\Users\gigat\source\repos\ForTestingEpamSite\WebPages\obj\Debug\net8.0\WebPages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gigat\source\repos\ForTestingEpamSite\WebPages\obj\Debug\net8.0\WebPages.AssemblyInfoInputs.cache
+C:\Users\gigat\source\repos\ForTestingEpamSite\WebPages\obj\Debug\net8.0\WebPages.AssemblyInfo.cs
+C:\Users\gigat\source\repos\ForTestingEpamSite\WebPages\obj\Debug\net8.0\WebPages.csproj.CoreCompileInputs.cache
+C:\Users\gigat\source\repos\ForTestingEpamSite\WebPages\obj\Debug\net8.0\WebPages.dll
+C:\Users\gigat\source\repos\ForTestingEpamSite\WebPages\obj\Debug\net8.0\refint\WebPages.dll
+C:\Users\gigat\source\repos\ForTestingEpamSite\WebPages\obj\Debug\net8.0\WebPages.pdb
+C:\Users\gigat\source\repos\ForTestingEpamSite\WebPages\obj\Debug\net8.0\ref\WebPages.dll
