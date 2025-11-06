@@ -1,15 +1,12 @@
 ﻿using Core.Enum;
 using Core.Factory;
 using OpenQA.Selenium;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Core.Driver
 {
-    //threadlocal singleton pattern
+    //threadlocal singleton pattern not working needs to be fixed.
+    //work fine with just [Parallelizable(ParallelScope.Fixtures)] because test are run one by one.
+    //fails when [Parallelizable(ParallelScope.Childer)] is used.
     public sealed class DriverManager
     {
         private static readonly ThreadLocal<IWebDriver?> _driver = new ThreadLocal<IWebDriver?>();

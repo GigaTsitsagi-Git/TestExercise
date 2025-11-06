@@ -1,13 +1,10 @@
 using Core.Driver;
 using Core.Enum;
-using Core.Factory;
-using OpenQA.Selenium;
-using OpenQA.Selenium.Support.UI;
 using WebPages;
 namespace Tests
 {
     [TestFixture(BrowserType.Chrome)]
-    [Parallelizable(ParallelScope.Children)]
+    [Parallelizable(ParallelScope.Fixtures)]
     public class IndexPageTests
     {
         private readonly BrowserType _browser;

@@ -108,3 +108,4 @@ C:\Users\gigat\source\repos\ForTestingEpamSite\Tests\obj\Debug\net8.0\Tests.genr
 C:\Users\gigat\source\repos\ForTestingEpamSite\Tests\obj\Debug\net8.0\ref\Tests.dll
 C:\Users\gigat\source\repos\ForTestingEpamSite\Tests\bin\Debug\net8.0\nunit.framework.legacy.dll
 C:\Users\gigat\source\repos\ForTestingEpamSite\Tests\bin\Debug\net8.0\WebDriver.Support.dll
+C:\Users\gigat\source\repos\ForTestingEpamSite\Tests\obj\Debug\net8.0\Tests.sourcelink.json

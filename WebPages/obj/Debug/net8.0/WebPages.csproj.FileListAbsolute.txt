@@ -10,3 +10,4 @@ C:\Users\gigat\source\repos\ForTestingEpamSite\WebPages\obj\Debug\net8.0\WebPage
 C:\Users\gigat\source\repos\ForTestingEpamSite\WebPages\obj\Debug\net8.0\refint\WebPages.dll
 C:\Users\gigat\source\repos\ForTestingEpamSite\WebPages\obj\Debug\net8.0\WebPages.pdb
 C:\Users\gigat\source\repos\ForTestingEpamSite\WebPages\obj\Debug\net8.0\ref\WebPages.dll
+C:\Users\gigat\source\repos\ForTestingEpamSite\WebPages\obj\Debug\net8.0\WebPages.sourcelink.json
